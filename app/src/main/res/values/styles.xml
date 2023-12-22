@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ButtonStyle -->
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:textSize">21sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- TextStyle -->
+    <style name="TextStyle">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- BoldTextStyle -->
+    <style name="BoldTextStyle">
+        <item name="android:textSize">27sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#C30000</item>
+    </style>
+
+</resources>
